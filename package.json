@@ -32,7 +32,7 @@
     "test": "grunt travis --verbose"
   },
   "dependencies": {
-    "nedb": "^1.5.0"
+    "@seald-io/nedb": "^4.1.2"
   },
   "devDependencies": {
     "grunt": "^0.4.5",

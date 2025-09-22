@@ -28,3 +28,4 @@ node_modules
 
 # OS-specific hidden files
 .DS_Store
+.idea
